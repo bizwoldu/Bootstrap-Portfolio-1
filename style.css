@@ -1,0 +1,147 @@
+
+
+
+
+
+body {
+background-image: "#";
+color:black;
+font-size: 87.5%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+line-height: 1.5;
+text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a :link, a :visited{
+}
+
+a :hover, a :active{
+
+}
+ 
+.body  {
+    margin: 0 auto;
+    width: 70%;
+    clear: both;
+    background-color: lightgray;
+}
+
+.mainHeader img {
+        
+        width: 30%;
+        height: auto;
+        margin: 2% 0;
+}
+.mainHeader nav
+ {
+    background-color: teal;
+    height: 40px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.mainHeader nav ul{   
+    list-style: none;
+    margin: 0 auto;
+}
+
+
+.mainHeader nav ul li {
+    float: left;
+    display: inline;
+    
+}
+
+
+.mainHeader nav a:link, .main-Header nav a :visited {
+
+    color: #fff;
+    display: inline-block;
+    padding: 10px 25px;
+    height: 20px;
+}
+
+.mainHeader nav a:hover, .main-Header nav a:active 
+.mainHeader nav .active a:link, .main-Header nav .active a:visited {
+
+    background-color: rgb(182, 156, 8);
+    color: #fff;
+    text-shadow: none;
+}
+        
+.mainHeader nav ul li a {
+
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.mainContent {
+    
+    background-color: lightgray;
+    line-height: 25px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    overflow: hidden;
+}
+
+content{
+
+    width: 70%;
+    float: left;
+    
+}
+
+.topcontent{
+
+    background-color: #fff;
+    margin-right: 25%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 3% 5%;
+    overflow: hidden;
+    margin-top: 2%;
+}
+
+.bottomcontent{
+    background-color: #fff;
+    margin-right: 25%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 3% 5%;
+    overflow: hidden;
+    margin-top: 2%;
+}
+
+
+   
+
+ 
+
+.mainFooter {
+    background-color: teal;
+    text-align: center;
+    color: #fff;
+
+}
+
+@media{ max-width: 980px;
+
+    max-width: 980px;
+}
+
+     
+
+
+
+
+ 
+ 
